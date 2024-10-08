@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- 其他颜色定义 -->
+    <color name="selected_text_color">#2196F3</color>
+    <color name="unselected_text_color">#757575</color>
+    <color name="login_switch_background">#F0F0F0</color>
+    <color name="input_stroke_color">#E0E0E0</color>
+</resources>

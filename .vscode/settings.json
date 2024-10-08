@@ -1,0 +1,12 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "C:/Users/56372/.jdks/corretto-17.0.11",
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "F:/soft/sdk/platforms/android-34/android.jar"
+    ],
+    "java.sourceAttachmentPath": "F:/soft/sdk/sources/android-34"
+}
